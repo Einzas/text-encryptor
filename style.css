@@ -87,3 +87,13 @@ h2 {
     min-height: 100px;
     overflow: hidden;
 }
+
+#logo {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    position: absolute;
+
+    bottom: 0;
+    right: 0;
+}
